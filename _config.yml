@@ -29,9 +29,10 @@ twitter_username:
 github_username:  tuckerz
 
 # Build settings
-theme: minima
+remote-theme: "mmistakes/minimal-mistakes@4.28.0"
 plugins:
   - jekyll-feed
+  - jekyll-include-chase
 
 # Exclude from processing.
 # The following items will not be processed, by default.
