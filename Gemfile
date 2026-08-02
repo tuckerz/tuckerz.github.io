@@ -4,6 +4,10 @@ gem "github-pages", group: :jekyll_plugins
 
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "csv"
+gem "bigdecimal"
+gem "ostruct"
+gem "liquid", ">= 4.0.4"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
