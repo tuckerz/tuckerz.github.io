@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Tucker Z"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assests/images/bio-photo.jpg"
   bio    : "Trying and doing things. Professional by day. Hobbiest by evening."
   links:
     - label: "Website"

@@ -2,7 +2,17 @@
 permalink: /about/
 title: "About"
 ---
+Dear Reader,
+I'm Tucker Z. This journal chronicles my life, adventures, and thoughts for access anywhere by anyone. There is so much color and beauty in this world. I must save and share a little bit of it.  
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I wear multiple hats. I'm an professional engineer and an amateur at everything else.
+- Homebrewer
+- Guitarist
+- Mechanic
+- SCUBA Diver
+- Outdoorsman
+- Conservationist
+- Biker
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+# History
+I was born in Colorodo and grew up in California. I attended university for engineering close to home right after highschool. I forunately escaped California when I got a job and moved for a large engineering company across the country in North Carolina.
