@@ -1,14 +1,14 @@
 ---
-title: "Hello World"
+title: "Hello World, a new blog"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
   - 
 ---
-Welcome to the blog! This journal logs various things I wish to share. Why share these things with the world?
+Welcome to the blog! This journal logs things I wish to share. But why even share these things?
 
-There is lots of color in this world. The simple things present so much joy. Please imagine the morning sunglight pouring in through the blinds or the oppressive summer heat wrapped around you. Each of these phenomenons bring so much happiness. How much joy can come from things not so simple? An incredible amount! I wish to show that to others. 
+There is lots of color in this world and the simple things bring so much joy. Please imagine the morning sunglight pouring in through the blinds or the oppressive summer heat wrapped around you like a blanket. Each of these phenomenons bring so much happiness. How much joy can come from things not so simple? An incredible amount! I wish to show that to others. 
 
 <!--more-->
 
